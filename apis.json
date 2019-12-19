@@ -1,0 +1,65 @@
+{
+    "name": "OpenColorado",
+    "description": "OpenColorado is working to make public data available and accessible to the citizens of Colorado.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/878-opencolorado.jpg",
+    "tags": [
+        "colorado",
+        "have api",
+        "state government"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/opencolorado\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OpenColorado",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/878-opencolorado.jpg",
+            "humanURL": "http:\/\/opencolorado.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/opencolorado-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/opencolorado-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/data.opencolorado.org\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/opencolorado.org\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/opencolorado.org\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/opencolorado"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/opencolorado"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/opencolorado"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/opencolorado.org"
+        }
+    ]
+}
